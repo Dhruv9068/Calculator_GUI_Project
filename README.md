@@ -1,18 +1,44 @@
-Tkinter Calculator GUI
+# Tkinter Calculator GUI
 
-Description:
-This repository contains a Python application that implements a simple calculator graphical user interface (GUI) using the Tkinter library. Tkinter is a standard GUI toolkit for Python, widely used for building desktop applications with graphical interfaces.
-The calculator GUI provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with functionalities for clearing the display and handling decimal numbers. It offers a user-friendly interface allowing users to perform calculations with ease.
+## Overview
 
-Key Features
+Tkinter Calculator GUI is a Python application that provides a graphical user interface for performing basic arithmetic operations. Built using the Tkinter library, it offers a simple and intuitive calculator interface for users.
 
-1.Clear and intuitive user interface design.
-2.Support for basic arithmetic operations.
-3.Decimal point handling for precise calculations.
-4.Error handling to prevent invalid inputs.
+## Features
 
-Repository Contents:
+- Addition, subtraction, multiplication, and division operations.
+- Buttons for numeric input (0-9) and decimal point.
+- Clear button to reset the calculator.
+-
 
-calculator.py: The main Python script containing the implementation of the calculator GUI.
-README.md: Instructions and documentation on how to use the calculator GUI and contribute to the repository.
-LICENSE: License information for the project.
+## Requirements
+
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Dhruv9068/Tkinter_Calculator_GUI.git
+```
+
+## Usage
+
+1. Run the Python script `calculator.py`:
+
+```bash
+python calculator.py
+```
+
+2. Use the buttons to perform calculations.
+3. Press the clear button to reset the calculator.
+
+## Contributions
+
+Contributions are welcome! If you find any issues or want to suggest improvements, feel free to open an issue or submit a pull request.
+
+```
+
+Replace `"your_username"` in the clone URL with your actual GitHub username. Make sure to have a file named `calculator.py` in your repository containing the main code for the calculator GUI.
